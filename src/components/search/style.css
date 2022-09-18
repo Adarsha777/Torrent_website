@@ -7,12 +7,16 @@
 .search-wrapper{
     display: grid;
     gap: 10px;
+    padding: 10px 5em;
+    background: #282c34;
+    color: #5a5a5a;
 }
 .search-input
 {
     padding: 12.5px;
-    background: #282828;
-    color: #a2a2a2;
+    background: #5a5a5a;
+    width: 100%;
+    color: #787171;
     border: none;
     outline: none;
 }
